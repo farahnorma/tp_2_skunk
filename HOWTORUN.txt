@@ -1,0 +1,19 @@
+Import documents and run the SkunkApp.java file
+
+Enter the number of players that will be playing.
+You will be prompted to enter the player names one at a time, type each name and enter as prompted.
+
+Then you can choose to read the rules or not by typing "y" for yes and "n" not no.
+
+Game will begin by asking player 1 whether they wish to roll or not by typing and entering "y" or "n" again.
+
+Each player's turn ends when they either choose to pass the dice to the next player, by choosing "n", or they roll a disqualifying roll, a skunk, deuce, or combination roll.
+
+Each turn will continue like this for 20 rounds or until a player reaches 100 points, whichever occurs first.
+
+Once the first player reaches 100 points, the other players will have a chance to reach 100 as well.
+
+Winner gathers all the chips.
+
+Players will be given the option to play another game once complete and the program will keep count of games won by who, once players choose to end gameplay entirely they will receive a summary of total game wins.
+
